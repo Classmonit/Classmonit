@@ -1,0 +1,72 @@
+- 👋 Hi, I’m @Classmonit
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Classmonit/Classmonit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->use detailed info on a module.
+🤖command-.add
+🎯info- module to add a person to a group.
+🤖command-. admins
+🎯 info-Tag admins
+🤖command-.Block
+🎯-block contacts 
+🤖command-.carbon 
+🎯info-convert text/code to carbon image
+🤖command-.demote
+🎯info-demote a person from admins
+🤖command-.disappear
+🎯info-Toggle disappearing messages
+🤖command-.get display
+🎯info-get displayed picture
+🤖command-.github
+🎯info-github profile
+🤖commad-.goodbye 
+🎯info-A group message for a chat whenever someone lives
+🤖command-.help
+🎯info-get the co.mad list and info on modules 
+🤖command-.alive 
+🎯info-check if not is online
+🤖command-.invite
+🎯info-module to create group invite link
+🤖command-.lyrics
+🎯info-module find lyrics of song
+🤖command-.mute
+🎯info-mute group chat for a specified  time
+🤖command-.neko
+🎯info-copy your text to  nekobin
+🤖command-.ocr
+🎯info- optical character recognition 
+🤖command-.promote
+🎯info-promote a member to admin
+🤖command-.remove 
+🎯info-module to remove a person from group 
+🤖command-.setup
+🎯info-change group icon
+🤖command-. Song
+🎯info-.download  song
+🤖command-. Sticker
+🎯info-moduleto convert image to sticker
+🤖command-. Stoic
+🎯info-module convert sticker to image
+🤖command-.taga11
+🎯info-module to tag everyone in a group 
+🤖command-.tr
+🎯info-language transfer 
+🤖command-.its
+🎯info-text to speech 
+🤖command-.unblock
+🎯info-unblock contact 
+🤖command-.unmute
+🎯info-unmute group chat
+🤖command-.ud
+🎯info-ubarn dictionary 
+🤖command-.weather
+🎯info-get weather data of a city
+🤖command-.welcome
+🎯info-welcome new members to a group with custom messenges
+🤖command-.yt
+🎯info-get recommendations and links from yt
